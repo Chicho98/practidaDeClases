@@ -1,0 +1,8 @@
+E:\New folder (6)\practidaDeClases\practidaDeClases\bin\Debug\practidaDeClases.exe.config
+E:\New folder (6)\practidaDeClases\practidaDeClases\bin\Debug\practidaDeClases.exe
+E:\New folder (6)\practidaDeClases\practidaDeClases\bin\Debug\practidaDeClases.pdb
+E:\New folder (6)\practidaDeClases\practidaDeClases\obj\Debug\practidaDeClases.csproj.AssemblyReference.cache
+E:\New folder (6)\practidaDeClases\practidaDeClases\obj\Debug\practidaDeClases.csproj.SuggestedBindingRedirects.cache
+E:\New folder (6)\practidaDeClases\practidaDeClases\obj\Debug\practidaDeClases.csproj.CoreCompileInputs.cache
+E:\New folder (6)\practidaDeClases\practidaDeClases\obj\Debug\practidaDeClases.exe
+E:\New folder (6)\practidaDeClases\practidaDeClases\obj\Debug\practidaDeClases.pdb
